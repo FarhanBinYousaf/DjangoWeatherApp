@@ -10,4 +10,4 @@ This is the Weather Detection App using [Django](https://www.djangoproject.com/)
 * Django Static Files are used 
 
 ## Screenshot:
-(/images/siteSS.png)
+![image](images/siteSS.png)
