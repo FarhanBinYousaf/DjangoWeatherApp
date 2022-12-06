@@ -34,7 +34,10 @@ Result after searching your desired city of country, which includes
 ## How to Run on your machince?
 
 * Download it from [github](https://github.com/)
-* Install Virtual Environment in your laptop
+* Install Virtual Environment in your laptop through this command using `pip`
+    `pip install virtualenv`
+* Give virtualenv name of your own desire using 
+    `virtualenv name_of_your_virtual_environment`
 * Install Django in that Virtual Environment (if you want)
 * Copy DjangoWeatherApp in folder in which you added Virtual Environment
 * Run `DjangoWeatherApp` using `python manage.py runserver`
