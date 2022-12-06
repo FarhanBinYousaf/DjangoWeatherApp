@@ -11,3 +11,4 @@ This is the Weather Detection App using [Django](https://www.djangoproject.com/)
 
 ## Screenshot:
 ![image](images/siteSS.png)
+![image2](images/siteSS2.png)
