@@ -8,3 +8,6 @@ This is the Weather Detection App using [Django](https://www.djangoproject.com/)
 * No Bootstrap 
 * No Any Framework
 * Django Static Files are used 
+
+## Screenshot:
+(/images/siteSS.png)
