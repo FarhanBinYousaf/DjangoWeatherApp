@@ -8,7 +8,7 @@ This is the Weather Detection App using [Django](https://www.djangoproject.com/)
 * No Bootstrap 
 * No Any Framework
 * Django Static Files are used 
-* SQL Lite3 Database (Default Database of [Django](https://www.djangoproject.com/))
+* [SQL Lite3](https://www.sqlite.org/index.html) Database (Default Database of [Django](https://www.djangoproject.com/))
 
 ## Screenshot:
 Front Page of Site lookes like this (you can set design according to your need).
