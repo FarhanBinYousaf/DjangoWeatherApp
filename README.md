@@ -30,3 +30,11 @@ Result after searching your desired city of country, which includes
 
 ![image2](images/siteSS2.png)
 
+
+## How to Run on your machince?
+
+* Download it from [github](https://github.com/)
+* Install Virtual Environment in your laptop
+* Install Django in that Virtual Environment (if you want)
+* Copy DjangoWeatherApp in folder in which you added Virtual Environment
+* Run `DjangoWeatherApp` using `python manage.py runserver`
